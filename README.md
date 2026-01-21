@@ -33,3 +33,6 @@ Le jeu de données contient les colonnes suivantes :
 ## Prochaines améliorations
 - Ajouter plus de données
 - Créer un dashboard Power BI
+
+## Voir le notebook
+Vous pouvez consulter le notebook complet avec le code et les resultats ici : https://nbviewer.org/github/lola-hm/analyse-ventes-debutant/blob/main/analyse_ventes.ipynb
