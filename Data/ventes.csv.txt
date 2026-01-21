@@ -1,0 +1,10 @@
+date,produit,prix,quantite
+2024-01-01,T-shirt,20,2
+2024-01-01,Jean,50,1
+2024-01-02,T-shirt,20,1
+2024-01-02,Chaussures,80,1
+2024-01-03,T-shirt,20,3
+2024-01-03,Jean,50,2
+2024-01-04,Chaussures,80,1
+2024-01-05,T-shirt,20,1
+2024-01-05,Jean,50,1
